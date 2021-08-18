@@ -10,6 +10,6 @@ Paczka serwera CayRP, udostępniam ją ponieważ nie chce już tego prowadzić.
 <br><br>
 INTERIORY: https://mega.nz/folder/RKohhKAB#4V17RtOLZpot89Pbk2L6Cw
 <br>
-AUTA: 
+AUTA: https://mega.nz/folder/4X4yjKYa#_RDyDlQuYIu-DKuUjjbLEg
 <br><br>
 Discord: https://discord.gg/uuDHqXyZ9Y
