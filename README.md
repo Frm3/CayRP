@@ -8,8 +8,8 @@ Paczka serwera CayRP, udostępniam ją ponieważ nie chce już tego prowadzić.
 
 **DrunkRP, MadRP, BestRP i BlakeRP <- Wszystkie nazwy tego serwera pod jakim działała paczka.**
 <br><br>
-INTERIORY: 
+INTERIORY: https://mega.nz/folder/RKohhKAB#4V17RtOLZpot89Pbk2L6Cw
 <br>
 AUTA: 
-<br><br><br>
+<br><br>
 Discord: https://discord.gg/uuDHqXyZ9Y
