@@ -1,0 +1,140 @@
+[
+    {
+        "identifiers": [
+            "steam:110000133750a67",
+            "license:2de99f68145dc32fb71e8a5491873f5fa0d63650",
+            "xbl:2535423562248872",
+            "live:985154730826069",
+            "discord:521027303665303562",
+            "ip:185.122.172.241"
+        ],
+        "expire": 10444633200,
+        "banid": 1,
+        "banner": "Pindii",
+        "reason": "Diabeł  ( Gracz: Oliws00n ), Zablokowany przez: Pindii",
+        "name": "Oliws00n"
+    },
+    {
+        "identifiers": [
+            "steam:11000014048f183",
+            "license:1d10ac08c4d81b010433d4b17d452f03a0805e3e",
+            "xbl:2535471362338072",
+            "live:1055518455578547",
+            "discord:543436180776026115",
+            "fivem:2715440",
+            "license2:1d10ac08c4d81b010433d4b17d452f03a0805e3e",
+            "ip:95.171.219.110"
+        ],
+        "expire": 10444633200,
+        "banid": 2,
+        "banner": "Pindii",
+        "reason": "cheaty  ( Gracz: kamelsonz ), Zablokowany przez: Pindii",
+        "name": "kamelsonz"
+    },
+    {
+        "identifiers": [
+            "steam:11000013620f422",
+            "license:2d8519c9a04479ec3f4e9938b75060957d53b783",
+            "xbl:2535431809653870",
+            "live:985154340436126",
+            "discord:747542024965586986",
+            "fivem:1084947",
+            "license2:2d8519c9a04479ec3f4e9938b75060957d53b783",
+            "ip:46.205.203.19"
+        ],
+        "expire": 10444633200,
+        "banid": 4,
+        "banner": "Pindii",
+        "reason": "2.4 ( Gracz: 2.1.3.7 Feciu ), Zablokowany przez: Pindii",
+        "name": "2.1.3.7 Feciu"
+    },
+    {
+        "identifiers": [
+            "steam:11000013621616f",
+            "license:f5eec7d5aef123429d5813a9649784bd4993ec1e",
+            "live:985154882605150",
+            "discord:284665664189366272",
+            "license2:f5eec7d5aef123429d5813a9649784bd4993ec1e",
+            "ip:89.161.21.36"
+        ],
+        "expire": 10444633200,
+        "banid": 5,
+        "banner": "MRmapiot",
+        "reason": "Nie określono przyczyny ( Gracz: manuel ), Zablokowany przez: MRmapiot",
+        "name": "manuel"
+    },
+    {
+        "identifiers": [
+            "steam:110000143027a9c",
+            "license:5bff976ffa62fbd4798c3e152270d429d5449c12",
+            "live:1055519297053831",
+            "discord:444567565814202388",
+            "license2:5bff976ffa62fbd4798c3e152270d429d5449c12",
+            "ip:62.133.129.140"
+        ],
+        "expire": 10444633200,
+        "banid": 7,
+        "banner": "MRmapiot",
+        "reason": "Nie określono przyczyny ( Gracz: zna sie ktos na bukmacherce ), Zablokowany przez: MRmapiot",
+        "name": "zna sie ktos na bukmacherce"
+    },
+    {
+        "identifiers": [
+            "steam:110000117a43482",
+            "license:5c6dd70cc3882c0c4e31045a199b19f13c3fc3aa",
+            "xbl:2535412735744987",
+            "live:844425975213554",
+            "discord:600944451115810817",
+            "license2:ce04251a1cf4d9baedb852f57a7665705725fbe3",
+            "ip:85.221.132.192"
+        ],
+        "expire": 10444633200,
+        "banid": 9,
+        "banner": "Pindii",
+        "reason": "TROLL ( Gracz: mlodymeanek ), Zablokowany przez: Pindii",
+        "name": "mlodymeanek"
+    },
+    {
+        "identifiers": [
+            "steam:1100001483a27ee",
+            "license:a401c6f350edae94b5de924d0518d50ff3c91773",
+            "license2:a401c6f350edae94b5de924d0518d50ff3c91773",
+            "ip:81.161.192.219"
+        ],
+        "expire": 10444633200,
+        "banid": 10,
+        "banner": "Dominik",
+        "reason": "Cheaty ( Gracz: orzeszekyt ), Zablokowany przez: Dominik",
+        "name": "orzeszekyt"
+    },
+    {
+        "identifiers": [
+            "steam:11000013e8f0242",
+            "license:60163eb50cb7d997e86bc4e2240435319b1fd114",
+            "discord:475670324835516436",
+            "license2:a2bcd7970649db094eca2855a83af60fcadf0897",
+            "ip:5.173.49.59"
+        ],
+        "expire": 10444633200,
+        "banid": 11,
+        "banner": "MRmapiot",
+        "reason": "Nie określono przyczyny ( Gracz: miaia ), Zablokowany przez: MRmapiot",
+        "name": "miaia"
+    },
+    {
+        "identifiers": [
+            "steam:11000014299f872",
+            "license:da602360e20776553a9553ccbe3de4d884f0fe62",
+            "xbl:2535452064301079",
+            "live:914798765926243",
+            "discord:712358256881827850",
+            "license2:2330df15ba616c8a8649bec5e83dbf05cb37e342",
+            "ip:188.125.131.74"
+        ],
+        "expire": 1624729532,
+        "banid": 12,
+        "banner": "Pindii",
+        "reason": "CLx2, uniakanie akcji RP ( Gracz: nexoos ), Zablokowany przez: Pindii",
+        "name": "nexoos"
+    }
+]

@@ -1,0 +1,214 @@
+@font-face {
+	font-family: 'Roboto';
+	src: url("fonts/Roboto-Bold.woff2") format("woff2"), url("fonts/Roboto-Bold.woff") format("woff"), url("fonts/Roboto-Bold.ttf") format("truetype");
+	font-weight: bold;
+	font-style: normal; }
+  
+  @font-face {
+	font-family: 'Roboto';
+	src: url("fonts/Roboto-Regular.woff2") format("woff2"), url("fonts/Roboto-Regular.woff") format("woff"), url("fonts/Roboto-Regular.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal; }
+
+
+@import url('https://fonts.googleapis.com/css?family=Rajdhani');
+
+html {
+	font-family: 'Rajdhani', sans-serif;
+}
+
+#wrap {
+	width: 15%;
+	min-height: 5%;
+	margin-top: 13%;
+	margin-left: 84.5%;
+	background-color: rgba(0, 0, 0, 0.4);
+	color: rgba(255, 255, 255, 0.9);
+	border-radius: 20px 20px 10px 10px;
+	-background-image: url('https://i.imgur.com/isjo9a6.png');
+	background-repeat: no-repeat;
+	background-size: 32% 70%;
+	background-position: 50% 80%;
+}
+
+p {
+	font-size: 1.05vw;
+}
+
+.header {
+	padding-top: 10px;
+	font-family: 'Rajdhani', sans-serif;
+  	font-weight: normal;
+	opacity: 1.0;
+	height: 1.5vw;
+	width: 100%;
+	-background: linear-gradient(45deg,  rgb(153, 255, 0), rgb(153, 255, 0));
+	background-color: rgba(0,0,0,0.6);
+	background-size: 300% 300%;
+	padding-left: 0px;
+	padding-right: 0px;
+	border-radius: 20px 20px 0px 0px;
+	-webkit-animation: GradientAnim 7s ease infinite;
+	-moz-animation: GradientAnim 7s ease infinite;
+	animation: GradientAnim 7s ease infinite;
+	border-bottom        : 1px solid;
+    border-image-source  : linear-gradient(45deg, rgb(153, 255, 0), rgb(153, 255, 0));
+    border-image-slice   : 1;
+}
+
+.tekstHeader{
+	padding-top: 12.5px;
+	padding-bottom: 10px;
+	background-position: 95% 70%;
+	background-size: 12.5% 80%;
+	background-repeat: no-repeat;
+	text-align: center;
+}
+
+.stopka {
+	font-family: 'Rajdhani', sans-serif;
+	font-weight: normal;
+	opacity: 1.0;
+	height: 1.3vw;
+	font-size: 0.80vw;
+	text-align: center;
+	width: auto;
+-background: linear-gradient(45deg, rgb(153, 255, 0), rgb(153, 255, 0));
+    background-color: rgba(0,0,0,0.6);
+	/*background-color: rgba(0,0,0,0.6);*/
+	background-size: 300% 300%;
+	padding-left: 0px;
+	padding-right: 0px;
+	border-radius: 0px 0px 10px 10px;
+	-webkit-animation: GradientAnim 7s ease infinite;
+	-moz-animation: GradientAnim 7s ease infinite;
+	animation: GradientAnim 7s ease infinite;
+	border-top        : 1px solid;
+    border-image-source  : linear-gradient(45deg, rgb(153, 255, 0), rgb(153, 255, 0));
+    border-image-slice   : 1;
+}
+
+.tekstStopka{
+	position: relative;
+	font-weight: normal;
+	top: 55%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.sluzby{
+	color: white;
+	font-size: 0.8vw;
+	border-color: black;
+}
+
+.jobs {
+	font-family: 'Rajdhani', sans-serif;
+	padding-top: 10px;
+	background-color: #1C1C1C;
+	height: 3vw;
+	width: 100%;
+}
+
+.jobs p {
+	font-family: 'Rajdhani', sans-serif;
+}
+
+table {
+	text-align: left;
+	color: white;
+}
+
+th, td {
+	padding-left: 25px;
+}
+
+th {
+	padding-top: 10px;
+	height: 40px;
+}
+
+tr {
+	font-size: 0.9vw;
+	font-family: 'Rajdhani', sans-serif;
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
+
+tr.heading {
+	font-size: 1vw;
+	color: rgba(255, 255, 255, 0.9);
+}
+
+.serverinfo {
+	font-size: 0.7vw;
+	text-align: center;
+}
+
+#bord {
+	background-color: #fff;
+	margin-left: 5.5%;
+	margin-right: 5.5%;
+	padding-bottom: 1px;
+    margin-top: 1.5%;
+    margin-bottom: 1.5%;
+}
+      .progress {
+		position: relative;
+        display: inline-block;
+        vertical-align: middle;
+		text-align: right;
+        width: 90%;
+        height: 1.3%;
+        background-color: rgba(0, 0, 0, 0.5);
+		border-radius: 10px;
+	}
+        .progress div {
+          display: block;
+          width: 100%;
+          height: 100%;
+          background-image: linear-gradient(to left,  rgb(153, 255, 0), rgb(153, 255, 0));
+		  border-radius: 10px;
+		}
+		  
+.tekstInfo{
+	position: absolute;
+	font-family: 'Rajdhani', sans-serif;
+	font-weight: normal;
+	margin-top: 1px;
+	opacity: 1;
+    color: white;
+	font-size: 14px;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	text-transform: uppercase;
+}
+
+.bar-avatar {
+	position: absolute;
+	margin-top: -32.5px;
+	right: 13.5%;
+}
+
+.avatar {
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+	-border: 3px solid linear-gradient(45deg, rgb(153, 255, 0)), rgb(153, 255, 0);
+}
+
+/*@-webkit-keyframes GradientAnim {
+    0%{background-position:0% 52%}
+    50%{background-position:100% 49%}
+    100%{background-position:0% 52%}
+}
+@-moz-keyframes GradientAnim {
+    0%{background-position:0% 52%}
+    50%{background-position:100% 49%}
+    100%{background-position:0% 52%}
+}
+@keyframes GradientAnim { 
+    0%{background-position:0% 52%}
+    50%{background-position:100% 49%}
+    100%{background-position:0% 52%}
+}*/

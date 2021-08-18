@@ -1,0 +1,35 @@
+[
+    {
+        "banid": 1,
+        "banner": "M_",
+        "expire": 10444633200,
+        "identifiers": [
+            "steam:11000013eb9d59c",
+            "license:a2dafc5c838d2146ce9413798d6c307dabaf33e6",
+            "xbl:2535408020148178",
+            "live:914801614468096",
+            "discord:700410344694087701",
+            "license2:a2dafc5c838d2146ce9413798d6c307dabaf33e6",
+            "ip:79.135.186.66",
+            "4:6e7ad1d655bb2a5e58eb0545a53641f7fc43f929e81c73454f26a35e8ae505bb",
+            "4:f68e8cc44f54cbe50dd3f4db739299089795e9e894fdf851dec62c2dc3336e5f",
+            "2:eef8d4455352b655f4967b9abc6e14c76af7ab6d2118508f1f53181c4b476fba",
+            "4:dc2184a7cc1b086f52cc903892732d783d8d38e528f3a33c91eebcb6051c2034",
+            "1:da2d9b069e3c8137d48776e59828a7d4382840e84e820cfd1a722d50cdd75342",
+            "4:bdecb918a10be9077b4a3bfe9ef0f996ee0bbf203f3ff58ffa279835981d002e",
+            "4:c7198e7684e96269fe903849d076cc3cdaa27ffcc3f211fad588dfb84f268666",
+            "4:e66fe6123be99cf1a6639b731d32bb881ab3bb00891138ab6e54f3c32377ba96",
+            "4:7923d98414186d5757ca1ac8fd4572a18322019f52441fa75cce5c953c7577f7",
+            "4:a9e666f58ff91fc6d24f8cc2bdb061035fda42ca002d5795549a7bf97f9f0252",
+            "4:3616d48a5ce0f4e99f3fb4da776b3ba9eac210706f19bbfcc2431d1fba908424",
+            "4:dc0f17741847e54b60874ae364be1e84ca0f797f9082a5cb6b2e3f0632469111",
+            "4:06ae8d34ec744d91ba3df768330f27103ee6df5f34e596ef933a546815bf0c23",
+            "4:db286b8660bf458c0031bd93a7af3911f9d4c8c92c45b0c23a640aa2b7cd8aa8",
+            "4:e2c55267f1fa1ab58a4073e11da8b43c7759c443a7c458a62e18eb11208228c1",
+            "4:b8855a1d4aee618203d08e87f91f07c1336e1f3a13328a159be2fa627f22ab5a",
+            "3:44751c7a27a2324a44293e7818636ba809b1255d67c78e10d9b47773476a2ef1"
+        ],
+        "reason": "FRP ( Gracz: qubaskuba ), Zablokowany przez: M_",
+        "name": "qubaskuba"
+    }
+]

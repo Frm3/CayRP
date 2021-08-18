@@ -1,0 +1,109 @@
+<style>
+
+p {
+  color: rgb(231, 213, 213);
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  transition: opacity 500ms;
+}
+
+.popup {
+  margin: 70px auto;
+  padding: 20px;
+  background: rgba(0, 0, 0, 0.61);
+  border-radius: 5px;
+  width: 40%;
+  height: auto;
+  position: relative;
+  transition: all 5s ease-in-out;
+}
+
+.popup h2 {
+  margin-top: 0;
+  color: #333;
+  font-family: Tahoma, Arial, sans-serif;
+}
+.popup .close {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  transition: all 200ms;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
+}
+.popup .close:hover {
+  color: #06D85F;
+}
+.popup .content {
+  max-height: 30%;
+  overflow: auto;
+}
+
+.container {
+  width: 100%;
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+
+.html {width: 90%; background-color: #04AA6D;}
+</style>
+
+<script src="index.js"></script>
+
+<div class="overlay" style="display:none">
+  <div class="popup">
+    <p style="padding-top: 14px; float: left;"><img src="http://placekitten.com/g/200/200" height="100px" width="100px" border="1px" style="border-radius: 50%;"></p>
+    <br><br><p style="font-size: 23px; padding-left: 110px;">Imię: BLA BLA</p><br>
+    <br><br>
+    <div class="content">
+      <p>Stamina</p>
+        <div class="container">
+          <div class="skills html"></div>
+        </div>
+    </div>
+    <div class="content">
+      <p>Siła</p>
+        <div class="container">
+          <div class="skills html"></div>
+        </div>
+    </div>
+    <div class="content">
+      <p>Pojemność Płuc</p>
+        <div class="container">
+          <div class="skills html"></div>
+        </div>
+    </div>
+    <div class="content">
+      <p>Zdolność Jeżdżenia</p>
+        <div class="container">
+          <div class="skills html"></div>
+        </div>
+    </div>
+    <div class="content">
+      <p>Zdolność Latania</p>
+        <div class="container">
+          <div class="skills html"></div>
+        </div>
+    </div>
+    <div class="content">
+      <p>Zdolność Strzelania</p>
+        <div class="container">
+          <div class="skills html"></div>
+        </div>
+    </div>
+  </div>
+</div>

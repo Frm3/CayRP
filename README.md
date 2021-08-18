@@ -11,3 +11,5 @@ Paczka serwera CayRP, udostępniam ją ponieważ nie chce już tego prowadzić.
 INTERIORY: 
 <br>
 AUTA: 
+<br><br><br>
+Discord: https://discord.gg/uuDHqXyZ9Y

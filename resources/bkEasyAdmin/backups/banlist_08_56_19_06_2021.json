@@ -1,0 +1,34 @@
+[
+    {
+        "identifiers": [
+            "steam:110000133750a67",
+            "license:2de99f68145dc32fb71e8a5491873f5fa0d63650",
+            "xbl:2535423562248872",
+            "live:985154730826069",
+            "discord:521027303665303562",
+            "ip:185.122.172.241"
+        ],
+        "expire": 10444633200,
+        "name": "Oliws00n",
+        "banner": "Pindii",
+        "reason": "Diabeł  ( Gracz: Oliws00n ), Zablokowany przez: Pindii",
+        "banid": 1
+    },
+    {
+        "identifiers": [
+            "steam:11000014048f183",
+            "license:1d10ac08c4d81b010433d4b17d452f03a0805e3e",
+            "xbl:2535471362338072",
+            "live:1055518455578547",
+            "discord:543436180776026115",
+            "fivem:2715440",
+            "license2:1d10ac08c4d81b010433d4b17d452f03a0805e3e",
+            "ip:95.171.219.110"
+        ],
+        "expire": 10444633200,
+        "name": "kamelsonz",
+        "banner": "Pindii",
+        "banid": 2,
+        "reason": "cheaty  ( Gracz: kamelsonz ), Zablokowany przez: Pindii"
+    }
+]

@@ -1,0 +1,72 @@
+Locales['en'] = {
+  -- Action Menu
+  ['citizen_interaction'] = 'Menu Kajdanek',
+
+  ['search'] = 'Przeszukaj',
+  ['handcuff'] = 'Zakuj/Rozkuj',
+  ['drag'] = 'Chwyć',
+  ['put_in_vehicle'] = 'Umieść w pojeżdzie',
+  ['out_the_vehicle'] = 'Wyciągnij z pojazdu',
+  ['no_players_nearby'] = 'Brak graczy w pobliżu',
+
+  ['vehicle_info'] = 'Vehicle info',
+  ['pick_lock'] = 'Lock pick',
+  ['vehicle_unlocked'] = 'Vehicle unlocked',
+  ['no_vehicles_nearby'] = 'No nearby vehicles',
+  ['traffic_interaction'] = 'Traffic interaction',
+  ['cone'] = 'Cone',
+  ['barrier'] = 'Barrier',
+  ['spikestrips'] = 'Spikestrips',
+  ['box'] = 'Box',
+  ['cash'] = 'Cash',
+  -- ID Card Menu
+  ['name'] = 'Name : ',
+  ['bac'] = 'BAC : ',
+  -- Body Search Menu
+  ['confiscate_dirty'] = 'Brudna Kasa: $',
+  ['guns_label'] = '--- Uzbrojenie ---',
+  ['confiscate'] = 'Konfiskuj ',
+  ['inventory_label'] = '--- Ekwipunek ---',
+  ['confiscate_inv'] = 'Konfiskuj x',
+  -- Vehicle Info Menu
+  ['plate'] = 'N°: ',
+  ['owner_unknown'] = 'owner: Unknown',
+  ['owner'] = 'Owner : ',
+  -- Weapons Menus
+  ['get_weapon_menu'] = 'Armory - Take Weapon',
+  ['put_weapon_menu'] = 'Armory - Deposit Weapon',
+  ['buy_weapon_menu'] = 'armory - Purchase Weapons',
+  ['not_enough_money'] = 'you do not have enough money',
+  -- Boss Menu
+  ['take_company_money'] = 'withdraw money company',
+  ['deposit_money'] = 'deposit money',
+  ['amount_of_withdrawal'] = 'amount of withdrawal',
+  ['invalid_amount'] = 'invalid ammount',
+  ['amount_of_deposit'] = 'ammount to deposit',
+  ['open_bossmenu'] = 'press ~INPUT_CONTEXT~ to open the menu',
+  ['quantity_invalid'] = 'Invalid quantity',
+  ['have_withdrawn'] = 'You have removed x',
+  ['added'] = 'You have added x',
+  ['quantity'] = 'Quantity',
+  ['inventory'] = 'Inventory',
+  ['mafia_stock'] = 'Mafia Stock',
+  -- Misc
+  ['remove_object'] = 'press ~INPUT_CONTEXT~ to remove the object',
+  ['map_blip'] = 'Mafia',
+  -- Notifications
+  ['from'] = '~s~ à ~b~',
+  ['you_have_confinv'] = 'Ukradłes ~y~x',
+  ['confinv'] = '~s~ Ukradł ~y~x',
+  ['you_have_confdm'] = 'Ukradłes ~y~$',
+  ['confdm'] = '~s~ Ukradł ~y~$',
+  ['you_have_confweapon'] = 'Ukradłes ~y~x1 ',
+  ['confweapon'] = '~s~ Ukradł ~y~x1 ',
+  ['alert_mafia'] = 'Alert mafia',
+  -- Authorized Vehicles
+  ['schafter3'] = 'Civilian vehicle',
+  ['sandking'] = '4X4',
+  ['mule3'] = 'Transport truck',
+  ['guardian'] = 'grand 4x4',
+  ['burrito3'] = 'Van',
+  ['mesa'] = 'Off-road',
+}
