@@ -9,8 +9,6 @@ Paczka serwera CayRP, udostępniam ją ponieważ nie chce już tego prowadzić.
 **DrunkRP, MadRP, BestRP i BlakeRP <- Wszystkie nazwy tego serwera pod jakim działała paczka.**
 
 <br><br>
-EUP: 
-<br><br>
 INTERIORY: 
-<br><br>
+<br>
 AUTA: 
